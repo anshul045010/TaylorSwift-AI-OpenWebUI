@@ -62,7 +62,7 @@ Replace /path/to/downloaded_model.json with the actual path of the file.
 
 + Navigate to Chat Interface or API Playground.
 + Select the uploaded model from the dropdown.
-+ Start chatting with your AI model!
++ Start chatting with your AI model.
 
 ## System Prompt
 ```
