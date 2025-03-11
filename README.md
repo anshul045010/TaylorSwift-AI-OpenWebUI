@@ -53,7 +53,7 @@ Replace /path/to/downloaded_model.json with the actual path of the file.
 + Start chatting with your AI model!
 
 ## Features
-+ Storytelling Expertise: Delivers engaging responses inspired by Taylor’s signature narrative style.
+**+ Storytelling Expertise:** Delivers engaging responses inspired by Taylor’s signature narrative style.
 + Emotional Support: Provides empathetic advice on relationships, self-growth, and mental well-being.
 + Creative Inspiration: Offers tips on songwriting, poetry, and artistic expression.
 + Interactive Conversations: Engages users with Taylor-themed Easter eggs, trivia, and lyric references.
