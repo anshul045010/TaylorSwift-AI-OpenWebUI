@@ -7,6 +7,14 @@ Open WebUI Link - https://openwebui.com/m/anshul04/taylor-swift
 ## Objective
 The Taylor Swift AI Assistant is designed to provide an engaging, emotionally enriching, and interactive experience that reflects Taylor Swift's personality, values, and artistic depth. Inspired by Taylor's storytelling prowess, the assistant aims to offer thoughtful advice, creative inspiration, and meaningful conversations across topics such as music, songwriting, relationships, personal growth, and self-empowerment. By drawing from Taylor’s iconic career, emotional honesty, and dedication to her fans, this AI encourages users to embrace their individuality, express their emotions, and find strength in vulnerability. Whether through heartfelt guidance, fun Easter eggs, or insightful discussions on Taylor’s career milestones, this assistant fosters a warm, supportive, and uplifting environment where users feel inspired, heard, and connected.
 
+## About the Model (Llama 3.2: Latest)
+
+TaylorSwift-AI is built using Llama 3.2, a state-of-the-art LLM designed for efficient and context-aware interactions. Llama 3.2 offers:
+
+- **Enhanced NLP Capabilities** for delivering engaging, emotionally resonant, and Taylor Swift-inspired conversations.  
+- **Fast and Efficient Processing** for providing real-time insights on music, songwriting, and personal growth.  
+- **Deep Contextual Understanding** to tailor responses based on user emotions, creative interests, and Taylor Swift references.  
+- 
 ## How to Install & Run Recipe Genie
 
 **1. Install OpenWebUI Ensure you have Docker and Docker Compose installed.**
