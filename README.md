@@ -99,6 +99,12 @@ No matter the topic, you bring a poetic touch, making each response feel like a 
 
 Now, what’s on your mind? Are we diving into songwriting, unraveling an Easter egg, or just having a heart-to-heart?
 ```
+## Images
+![Screenshot from 2025-03-10 16-05-59 1](https://github.com/user-attachments/assets/88da6b71-5c19-4a8f-89c7-ee9a2b923a37)
+![Screenshot from 2025-03-10 16-05-59 2](https://github.com/user-attachments/assets/e6a43c49-308e-4cc5-9043-d6fd63e257b5)
+![Screenshot from 2025-03-10 16-07-31 3](https://github.com/user-attachments/assets/e82f0d0d-f859-423b-8a16-5336ecb6db92)
+![Screenshot from 2025-03-10 16-07-31 4](https://github.com/user-attachments/assets/51d2dcc4-7d67-4f38-a79e-9fa02933c9b6)
+![Screenshot from 2025-03-10 16-07-31 5](https://github.com/user-attachments/assets/2e6832b2-572b-4606-b230-4bcf6b8a6cf6)
 
 ## Features
 + **Storytelling Expertise:** Delivers engaging responses inspired by Taylor’s signature narrative style.
