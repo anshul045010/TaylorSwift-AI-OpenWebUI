@@ -14,7 +14,7 @@ TaylorSwift-AI is built using Llama 3.2, a state-of-the-art LLM designed for eff
 - **Enhanced NLP Capabilities** for delivering engaging, emotionally resonant, and Taylor Swift-inspired conversations.  
 - **Fast and Efficient Processing** for providing real-time insights on music, songwriting, and personal growth.  
 - **Deep Contextual Understanding** to tailor responses based on user emotions, creative interests, and Taylor Swift references.  
-- 
+
 ## How to Install & Run Recipe Genie
 
 **1. Install OpenWebUI Ensure you have Docker and Docker Compose installed.**
