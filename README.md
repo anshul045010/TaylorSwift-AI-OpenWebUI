@@ -9,15 +9,19 @@ The Taylor Swift AI Assistant is designed to provide an engaging, emotionally en
 
 🔹 Install Docker & Docker Compose (if not installed)
 
+```
 sudo apt update && sudo apt install -y docker.io docker-compose
+```
 
 Then, clone and run OpenWebUI:
 
+```
 git clone https://github.com/openwebui/openwebui.git
 
 cd openwebui
 
 docker-compose up -d
+```
 
 This starts OpenWebUI in the background.
 
@@ -26,7 +30,9 @@ This starts OpenWebUI in the background.
 + Locate your downloaded JSON model file (e.g., recipe_genie.json).
 + Move the file to the correct OpenWebUI models directory.
 
+```
 mv /path/to/downloaded_model.json ~/openwebui/models/
+```
 
 Replace /path/to/downloaded_model.json with the actual path of the file.
 
