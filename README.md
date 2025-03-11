@@ -115,14 +115,14 @@ Now, what’s on your mind? Are we diving into songwriting, unraveling an Easter
 ![Screenshot from 2025-03-10 16-07-31 5](https://github.com/user-attachments/assets/2e6832b2-572b-4606-b230-4bcf6b8a6cf6)
 
 ## Features
-+ **1. Storytelling Expertise:** Delivers engaging responses inspired by Taylor’s signature narrative style.
-+ **2. Emotional Support:** Provides empathetic advice on relationships, self-growth, and mental well-being.
-+ **3. Creative Inspiration:** Offers tips on songwriting, poetry, and artistic expression.
-+ **4. Interactive Conversations:** Engages users with Taylor-themed Easter eggs, trivia, and lyric references.
-+ **5. Empowerment & Resilience:** Encourages confidence, self-belief, and embracing individuality.
-+ **6. Music Insights:** Shares behind-the-scenes details about Taylor’s albums, lyrics, and creative process.
-+ **7. Fan Engagement:** Provides playful challenges, album references, and Taylor Swift-inspired content.
-+ **8. Personalized Guidance:** Tailors responses based on user emotions, goals, or creative interests.
++ **Storytelling Expertise:** Delivers engaging responses inspired by Taylor’s signature narrative style.
++ **Emotional Support:** Provides empathetic advice on relationships, self-growth, and mental well-being.
++ **Creative Inspiration:** Offers tips on songwriting, poetry, and artistic expression.
++ **Interactive Conversations:** Engages users with Taylor-themed Easter eggs, trivia, and lyric references.
++ **Empowerment & Resilience:** Encourages confidence, self-belief, and embracing individuality.
++ **Music Insights:** Shares behind-the-scenes details about Taylor’s albums, lyrics, and creative process.
++ **Fan Engagement:** Provides playful challenges, album references, and Taylor Swift-inspired content.
++ **Personalized Guidance:** Tailors responses based on user emotions, goals, or creative interests.
 
 ## Learnings
 Here are some key **learnings** that your **Taylor Swift AI** can incorporate to enhance engagement, authenticity, and value in conversations:  
